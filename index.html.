@@ -1,0 +1,44 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index,follow">
+  <title>PinAI Studio Privacy Policy</title>
+</head>
+<body>
+  <main>
+    <h1>PinAI Studio Privacy Policy</h1>
+    <p>Last updated: October 11, 2026</p>
+
+    <h2>About this application</h2>
+    <p>PinAI Studio is a tool designed to help users prepare
+    Pinterest pin titles, descriptions, and keywords.</p>
+
+    <h2>Information we process</h2>
+    <p>Depending on the features used, users may provide images,
+    product links, keywords, and language preferences.</p>
+
+    <h2>How information is used</h2>
+    <p>Information provided by users is used to generate and
+    improve pin content. Do not submit sensitive personal
+    information through this application.</p>
+
+    <h2>Third-party services</h2>
+    <p>If Pinterest account integration or other third-party
+    services are enabled, their applicable privacy policies
+    and terms may also apply.</p>
+
+    <h2>Data retention and deletion</h2>
+    <p>Users may contact the application operator to request
+    information about applicable data retention and deletion.</p>
+
+    <h2>Contact</h2>
+    <p>For privacy questions, contact the operator through
+    the GitHub profile:
+    <a href="https://github.com/estore24">estore24</a>.</p>
+  </main>
+</body>
+</html>
+```
